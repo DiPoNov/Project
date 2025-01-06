@@ -1,4 +1,4 @@
-public class Main {
+public class PiTri {
 
     public static void main(String[] args) {
         if(args == null || args.length == 0){
